@@ -1,0 +1,31 @@
+// Erick Gitonga
+// ENE211-0006/2020
+
+
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    char operation;
+    int num1, num2, result;
+    
+    cout << "Enter the first variable:";
+    cin >> num1;
+    
+    cout << "Enter the second variabe:";
+    cin >> num2;
+    
+    cout << "Operation desired (+,-):";
+    cin >> operation;
+    
+    if (operation=='+'){result = num1+num2;
+        
+    }
+    else if (operation=='-'){result = num1-num2;
+        
+    }
+    
+    cout << result;
+}    
+  

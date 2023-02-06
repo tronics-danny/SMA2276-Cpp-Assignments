@@ -1,4 +1,8 @@
-Daniel Maithya
-ENE211-0018/2020
+Repository for assignment codes
 
-Code for a simple addition and subtraction calculator calculator which takes two inputs from the user.
+**COLLABORATORS**
+Daniel Maithya-ENE211-0018/2020
+Kelvine Onyango-ENE211-0024/2020
+Erick Gitonga -ENE211-0006/2020
+Emanuel Onak -ENE211-0177/2019
+

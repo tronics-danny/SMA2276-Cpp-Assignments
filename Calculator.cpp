@@ -22,9 +22,12 @@ int main(){
     if (action==1)
     {
         cout<<"The answer is: "<<num1+num2<<endl<<endl<<endl;
-    }else
-    cout<<"The answer is: "<<num1-num2<<endl<<endl<<endl;
+    }else if(action==2)
+    {
+       cout<<"The answer is: "<<num1-num2<<endl<<endl<<endl;
 
+    }else
+       cout<<"Please enter the correct action as given in the choices!!"<<endl<<endl<<endl;
 
 
     return 0;

@@ -1,0 +1,33 @@
+COMPUTER PROGRAMMING 2.
+CAT 2.
+PROJECT.
+COMPUTERIZED MEDICAL RECORDS.
+PROBLEM STATEMENT.
+GROUP MEMBERS
+1.	ERICK GITONGA ENE211-0006/2020
+2.	DANIEL MAITHYA ENE211-0018/2020
+3.	KELVINE CHWEYA ENE211-0024/2020
+4.	EMMANUEL OCHWOR ENE211-0177/2018
+
+PROBLEM
+The problem we wish to tackle is a lack of computerized medical records in a good number of hospitals around Kenya.
+BACKGROUND
+Many medical institutions in Kenya rely on physical records to keep track of a patient’s medical history. This is very prevalent in rural areas and even in learning institutions. Our own JKUAT only started digitizing medical records fairly recently.
+RELEVANCE
+The advantages of digitized records are obvious. Some include ease of retrieval, ease of backup, better diagnoses due to having patient histories close by, and many more.
+OBJECTIVES
+Below are some of the objectives to be met, including features necessary to the program.
+•	Consolidation – A patient’s entire history should be available at once.
+•	Privacy – Only authorized personnel should have access to the records.
+•	Prioritization – Important information like allergies, related symptoms from earlier in the patient’s history should be given precedence.
+•	Standardization – Medical history should be displayed in the format that doctors all over are familiar with.
+•	Accountability – The system should have records log function to keep track of whoever used it and whoever was responsible for a particular patient.
+•	User Friendliness – The console program should be user friendly, intuitive and low effort.
+•	Comprehensiveness – The program should prompt, and be able to handle, comprehensive patient data.
+•	Timeliness – The program should be able to adequately deal with timelines in the data.
+
+It should be noted that these objectives and features are not equal. Some are essential to the system while others are not quit as necessary.
+
+
+
+
